@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "834296548214",
+    "firebase_url": "https://marketsasa-5f6c6.firebaseio.com",
+    "project_id": "marketsasa-5f6c6",
+    "storage_bucket": "marketsasa-5f6c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834296548214:android:e2159b09f53a5979",
+        "android_client_info": {
+          "package_name": "com.letina.marketsasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834296548214-0f8rjcf7c22nbvjvggspepirsp98q1ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.letina.marketsasa",
+            "certificate_hash": "66e37d33f4a8f0c2c801d0eeb0357e5f5e5bd9ad"
+          }
+        },
+        {
+          "client_id": "834296548214-qboodf1l4ko7ltq09mi8t6274a3kpo84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtOgd-O5VCYZ4SmPqiTt1kwUhRIqJudK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834296548214-qboodf1l4ko7ltq09mi8t6274a3kpo84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
