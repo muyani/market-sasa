@@ -33,6 +33,13 @@ public class LoginActivity extends AppCompatActivity {
         info = findViewById(R.id.tvInfo);
         signup = findViewById(R.id.tvSignup);
         forgotPass = findViewById(R.id.tvForgot);
+        forgotPass.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),ResetpasswordActivity.class));
+
+            }
+        });
         firebaseAuth = FirebaseAuth.getInstance();
         signup.setOnClickListener(new View.OnClickListener() {
             @Override
